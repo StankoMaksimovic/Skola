@@ -20,8 +20,8 @@ namespace Skola
             PrviRazred.Matematika = 2;
             PrviRazred.Srpski = 5;
             PrviRazred.Fizika = 3;
-            PrviRazred.PrintProsek();
-           System.Console.WriteLine(PrviRazred.prosekOcena()); 
+            PrviRazred.prosekOcena();
+           
         }
     }
 }
