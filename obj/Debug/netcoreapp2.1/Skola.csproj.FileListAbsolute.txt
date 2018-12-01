@@ -1,0 +1,11 @@
+/home/stanko/Documents/Skola/bin/Debug/netcoreapp2.1/Skola.deps.json
+/home/stanko/Documents/Skola/bin/Debug/netcoreapp2.1/Skola.runtimeconfig.json
+/home/stanko/Documents/Skola/bin/Debug/netcoreapp2.1/Skola.runtimeconfig.dev.json
+/home/stanko/Documents/Skola/bin/Debug/netcoreapp2.1/Skola.dll
+/home/stanko/Documents/Skola/bin/Debug/netcoreapp2.1/Skola.pdb
+/home/stanko/Documents/Skola/obj/Debug/netcoreapp2.1/Skola.csprojAssemblyReference.cache
+/home/stanko/Documents/Skola/obj/Debug/netcoreapp2.1/Skola.csproj.CoreCompileInputs.cache
+/home/stanko/Documents/Skola/obj/Debug/netcoreapp2.1/Skola.AssemblyInfoInputs.cache
+/home/stanko/Documents/Skola/obj/Debug/netcoreapp2.1/Skola.AssemblyInfo.cs
+/home/stanko/Documents/Skola/obj/Debug/netcoreapp2.1/Skola.dll
+/home/stanko/Documents/Skola/obj/Debug/netcoreapp2.1/Skola.pdb
