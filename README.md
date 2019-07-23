@@ -1,4 +1,1 @@
 # Skola
-# Skola
-# Skola
-# Skola
